@@ -23,7 +23,7 @@ cd /opt
 git clone https://github.com/state-hiu/cybergis-styles.git cybergis-styles.git
 ```
 
-The CyberGIS Styles repo (cybergis-styles) also contains some tools for automating the process of creating styles.  See the installation guide at [https://github.com/state-hiu/cybergis-scripts](https://github.com/state-hiu/cybergis-scripts).
+The CyberGIS Scripts repo (cybergis-scripts) also contains some tools for automating the process of creating styles.  See the installation guide at [https://github.com/state-hiu/cybergis-scripts](https://github.com/state-hiu/cybergis-scripts).
 
 ## Usage
 

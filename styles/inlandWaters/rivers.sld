@@ -13,7 +13,7 @@
       <FeatureTypeStyle>
         <Rule>
           <Name>rule1</Name>
-          <Title</Title>
+          <Title></Title>
           <Abstract></Abstract>
           <LineSymbolizer>
             <Stroke>

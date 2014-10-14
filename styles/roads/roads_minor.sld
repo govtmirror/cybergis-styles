@@ -18,13 +18,13 @@
           <LineSymbolizer>
             <Stroke>
               <CssParameter name="stroke">#000000</CssParameter>
-              <CssParameter name="stroke-width">4</CssParameter>
+              <CssParameter name="stroke-width">2</CssParameter>
             </Stroke>
           </LineSymbolizer>
           <LineSymbolizer>
             <Stroke>
-              <CssParameter name="stroke">#FFFFFF</CssParameter>
-              <CssParameter name="stroke-width">3</CssParameter>
+              <CssParameter name="stroke">#AAAAFF</CssParameter>
+              <CssParameter name="stroke-width">1</CssParameter>
             </Stroke>
           </LineSymbolizer>
         </Rule>

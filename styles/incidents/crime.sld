@@ -20,7 +20,7 @@
               <Mark>
                 <WellKnownName>star</WellKnownName>
                 <Fill>
-                  <CssParameter name="fill">FFA500</CssParameter>
+                  <CssParameter name="fill">#FFA500</CssParameter>
                 </Fill>
               </Mark>
               <Size>20</Size>

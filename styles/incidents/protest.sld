@@ -6,10 +6,10 @@
  xmlns:xlink="http://www.w3.org/1999/xlink" 
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NamedLayer>
-    <Name>crime</Name>
+    <Name>protest</Name>
     <UserStyle>
-      <Title>crime</Title>
-      <Abstract>crime</Abstract>
+      <Title>protest</Title>
+      <Abstract>protest</Abstract>
       <FeatureTypeStyle>
         <Rule>
           <Name>rule1</Name>
